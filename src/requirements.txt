@@ -1,0 +1,3 @@
+# You can populate this file as you need and it will be
+# > pip install -r requirements.txt 
+# by the container build process.
