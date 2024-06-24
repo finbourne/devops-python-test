@@ -1,3 +1,5 @@
+![LUSID_by_Finbourne](./resources/Finbourne_Logo_Teal.svg)
+
 # Python (Data) DevOps Practical Test
 A repository for the Python (Data) DevOps Practical test.
 
